@@ -3,4 +3,3 @@
 
 config SHIELD_ZEST_BATTERY_LIPO
 	def_bool $(shields_list_contains,zest_battery_lipo)
-	select I2C
