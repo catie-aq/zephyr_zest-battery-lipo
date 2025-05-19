@@ -6,7 +6,7 @@ Zest_Battery_LiPo shield support for Zephyr OS.
 
 This board enables the following component:
 
-- [Maxim MAX17201](https://www.maximintegrated.com/en/products/power/battery-management/MAX17201.html/storefront/storefront.html) Fuel Gauge.
+- [Maxim MAX17201](https://www.analog.com/en/products/max17201.html) Fuel Gauge.
 
 :bulb: This driver should also be added to your workspace:
 
