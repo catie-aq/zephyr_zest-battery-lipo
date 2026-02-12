@@ -24,7 +24,7 @@
 			temperature-thresholds = <2732 3181>; \
 			external-thermistor1; \
 			external-thermistor2; \
-			alert-gpios = <&sixtron_connector DIO1 (GPIO_ACTIVE_LOW | GPIO_OPEN_DRAIN)>; \
+			alert-gpios = <&sixtron_connector DIO1 (GPIO_ACTIVE_LOW)>; \
 		}; \
 	};
 
